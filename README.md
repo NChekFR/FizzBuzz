@@ -396,7 +396,7 @@ These will all be positive integers.
 
 To test your code, you can run the provided `MultiplesTest` in the `test` folder.
 The first time you run the tests, you may need to first hover your mouse over one of the
-red squiggly lines near the top of `MultiplesTest.java` and click `more options...`
+red squiggly lineаs near the top of `MultiplesTest.java` and click `more options...`
 and then `Add Junit 5.8.1 to classpath`. Then you should be able to run the tests.
 
 > If you accidentally add `Junit 4`, then `jupiter` should turn red and hovering over that should
